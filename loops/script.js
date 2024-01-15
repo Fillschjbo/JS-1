@@ -45,3 +45,8 @@ for(let i = 0; i < totalFruits; i++) {
     //last item in array
     console.log(fruits[fruits.length -1])
 }
+
+
+// loop object
+
+// for(let key in ___)
